@@ -1,0 +1,7 @@
+line-bot-sdk
+flask
+requests
+bs4
+gspread
+oauth2client
+Pandas
