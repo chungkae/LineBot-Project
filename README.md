@@ -2,7 +2,7 @@
 
 QRCode:
 
-![image](https://github.com/chungkae/linebot_project/blob/main/M.png)
+![image](https://github.com/chungkae/LineBot-Project/blob/main/M.png)
 
 --- 指令教學 ---
 
