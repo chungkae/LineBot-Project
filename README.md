@@ -5,8 +5,6 @@ QRCode:
 ![image](https://github.com/chungkae/LineBot-Project/blob/main/M.png)
 
 
-![image](https://github.com/chungkae/LineBot_Project/blob/main/linebot_pic.png?raw=true)
-
 --- 指令教學 ---
 
 - hot or 表特
@@ -32,3 +30,7 @@ QRCode:
 
 - teach
   > 再教一次!
+
+圖文選單:
+
+![image](https://github.com/chungkae/LineBot_Project/blob/main/linebot_pic.png?raw=true)
