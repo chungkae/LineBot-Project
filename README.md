@@ -4,6 +4,9 @@ QRCode:
 
 ![image](https://github.com/chungkae/LineBot-Project/blob/main/M.png)
 
+
+![image](https://github.com/chungkae/LineBot_Project/blob/main/linebot_pic.png?raw=true)
+
 --- 指令教學 ---
 
 - hot or 表特
